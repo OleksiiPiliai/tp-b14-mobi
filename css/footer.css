@@ -1,0 +1,60 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+ul,
+li {
+    list-style: none;
+}
+footer {
+    background: #06071b;
+    width: 1280px;
+        height: 612px;
+}
+.footer-head {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+        font-size: 24px;
+        color: #fff;
+}
+.footer-h3 {
+font-weight: 500;
+font-size: 24px;
+color: #fff;
+}
+.footer-text {
+    font-weight: 500;
+        font-size: 16px;
+        color: #fff;
+}
+.social-img {
+    width: 40px;
+        height: 40px;
+}
+.telephone {
+    font-weight: 500;
+        font-size: 16px;
+        color: #fff;
+}
+.gmail {
+    font-weight: 500;
+        font-size: 14px;
+        color: #fff;
+}
+.input-name-email {
+    border-radius: 5px;
+        width: 288px;
+        height: 40px;
+        background: #fff;
+}
+.input-message {
+border-radius: 5px;
+    width: 608px;
+    height: 162px;
+    background: #fff;
+}
+.footer-button {
+    border-radius: 5px;
+        width: 181px;
+        height: 42px;
+        background: linear-gradient(99deg, #00c5eb 0%, #b544fe 100%);
+}

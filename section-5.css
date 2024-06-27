@@ -1,0 +1,39 @@
+b {
+    font-family: 'Inter', sans-serif;
+}
+.title {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000;
+}
+
+.foto{ 
+    box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.25);
+    border-radius: 100%;
+}
+
+.name {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+font-size: 18px;
+color: #000;
+}
+
+.info {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+font-size: 14px;
+line-height: 1.71429;
+text-align: center;
+color: #000;
+}
+
+.text {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+color: #000;
+}

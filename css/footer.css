@@ -1,10 +1,74 @@
 body {
     font-family: "Inter", sans-serif;
 }
+a {
+    text-decoration: none;
+}
 ul,
 li {
     list-style: none;
 }
+----------heder-----------
+
+.logo {
+    font-weight: 400;
+    font-size: 28px;
+    color:#fff;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    margin-left: 16px;
+}
+.nav-list-item {
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+    display: inline;
+    margin-right: 20px;
+}
+.header-nav {
+    width: 1280px;
+    height: 72px;
+    backdrop-filter: blur(35px);
+    background: linear-gradient(99deg, rgba(0, 197, 235, 0.3) 0%, rgba(181, 68, 254, 0.3) 100%);
+}
+.header {
+    background: #06071b;
+    width: 1280px;
+    height: 684px;
+}
+-------- -------
+
+-----------hero------------
+.hero-header {
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+}
+.hero-download {
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+}
+.hero-span {
+    content: "\276F";
+}
+.hero-text {
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+}
+.hero-btn {
+    border-radius: 5px;
+    width: 200px;
+    height: 42px;
+    background: linear-gradient(99deg, #00c5eb 0%, #b544fe 100%);
+}
+.hero-images {
+    width: 430px;
+    height: 460px;
+}
+
+------------- -------------
 footer {
     background: #06071b;
     width: 1280px;

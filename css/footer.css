@@ -8,7 +8,7 @@ ul,
 li {
     list-style: none;
 }
-----------heder-----------
+/*----------heder-----------*/
 
 .nav-list-item {
     display: inline-block;
@@ -17,12 +17,14 @@ li {
     font-size: 12px;
     margin-right: 20px;
 }
+
 .nav-list-item-link {
     font-weight: 400;
     font-size: 14px;
     color: #fff;
     display: inline-block;
 }
+
 .header-nav-logo {
     font-weight: 400;
     font-size: 28px;
@@ -30,8 +32,8 @@ li {
     margin-top: 19px;
     margin-bottom: 19px;
     margin-left: 16px;
-    
 }
+
 .nav-list-item {
     display: inline-block;
     margin-right: 40px;
@@ -39,54 +41,70 @@ li {
     font-size: 12px;
     margin-right: 20px;
 }
+
 .header-nav {
     height: 72px;
     backdrop-filter: blur(35px);
     background: linear-gradient(99deg, rgba(0, 197, 235, 0.3) 0%, rgba(181, 68, 254, 0.3) 100%);
 }
+
 .header {
     border: 1px; solid: #000;
     box-sizing: border-box;
     background: #06071b;
     width: 1280px;
     height: 684px;
-}
--------- -------
 
------------hero------------
+}
+/*----------  -----------*/
+
+/*----------hero----------*/
+
+.header {
+background: #06071b;
+}
+
 .hero-header {
     font-weight: 700;
     font-size: 40px;
     color: #fff;
 }
+
 .hero-download {
     font-weight: 700;
     font-size: 20px;
     color: #fff;
 }
+
 .hero-span {
     content: "\276F";
-    color: red;
+    color: black;
 }
-.hero-text {
+
+.hero-download-text {
     font-weight: 400;
     font-size: 14px;
-    color: red;
 }
 
-
 .hero-btn {
+    color: #fff;
     border-radius: 5px;
     width: 200px;
     height: 42px;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
     background: linear-gradient(99deg, #00c5eb 0%, #b544fe 100%);
 }
+
 .hero-images {
     width: 430px;
     height: 460px;
 }
 
-------------- -------------
+/*----------  ----------*/
+
+
 footer {
     background: #06071b;
     width: 1280px;

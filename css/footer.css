@@ -101,7 +101,35 @@ background: #06071b;
     width: 430px;
     height: 460px;
 }
-
+.team-header {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000;
+}
+.team-header-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: #000;
+}
+.team-images {
+    border-radius: 10px;
+    width: 264px;
+    height: 260px;
+    background: url("path_to_image");
+}
+.team-list-header{
+    font-weight: 700;
+    font-size: 18px;
+    color: red;
+}
+.team-list-text{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: red;
+}
 /*----------  ----------*/
 
 
